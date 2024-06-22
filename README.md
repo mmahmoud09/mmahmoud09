@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**mmahmoud09/mmahmoud09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Mahmoud Abdelah 👋
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineer with experience in Backend. I love building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages:** PHP , Python , C++
+- **Frameworks & Libraries:** Laravel
+- **Tools:** Git, CI/CD
+- **Databases:** MySQL
+
+
+
+## 🎓 Education
+- **Bachelor** in Computers & Ai 
+  - Sohag University, 2024
+
+## 🌱 Interests
+- Participating in hackathons and coding challenges
+- Attending tech meetups and conferences
+- Exploring new technologies and frameworks
+
+## 📫 How to reach me
+- **Email:** mahmoudabdelah08@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mahmoud-abdelah/
+- **Twitter:** https://x.com/MAabdelah
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate on a project or just want to connect.
+
+
